@@ -1,2 +1,4 @@
 # Pico-8_Games
-Just some works in progress for the Pico-8 console. Nothing skilled, just playing around (mostly banging my head painlessly through a wall that should be there but doesn't want to do what it is supposed to do because collision detection is a pain).
+Some of my Pico-8 projects. For those that do not know: Pico-8 is a virtual console. All code written for it is written in Lua with some custom functions for the pico-8 added.
+
+None of the scripts here include the image or sound components. I'll try to add the full cartridges (saved as PNG files they include scripting, sound, and iamgery) later.
